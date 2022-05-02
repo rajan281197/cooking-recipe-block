@@ -1,0 +1,49 @@
+.Paddingparent {
+    padding-bottom: 10px;
+    display: flex;
+}
+
+.block {
+    margin: 1em 0;
+    text-align: center;
+}
+
+.block img {
+    width: 29vw;
+    height: 18vw;
+    object-fit: contain;
+}
+.slick-slide img {
+    display: inherit !important;
+}
+
+.Paddingparent .components-unit-control-wrapper {
+    float: left;
+    width: 25% !important;
+    margin-left: 10px;
+}
+
+.Paddingparent .components-unit-control-wrapper:first-child {
+    margin-left: 0;
+}
+
+.css-iifrkg-Root {
+    width: 100%;
+}
+
+.padding-data {
+    width: 20%;
+    white-space: nowrap;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.inline_label{
+    display: flex;
+    justify-content: space-between;
+}
+
+.inline_label p{
+    margin: 0;
+    margin-left:5px;
+}
